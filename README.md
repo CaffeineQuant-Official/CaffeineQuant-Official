@@ -21,7 +21,8 @@
 ### 📱 Social Media & Community
 * **X (Twitter):** [@CaffeineQuant](https://x.com/CaffeineQuant)
 * **Telegram:** [t.me/CaffeineQuant](https://t.me/CaffeineQuant)
-* **Discord:** [Join Community](https://discord.gg/Rmu3U8AC))
+* **Discord:** [Join Community](https://discord.gg/Rmu3U8AC)
+* **Reddit:** [u/CaffeineQuant](https://www.reddit.com/user/CaffeineQuant)
 * **Instagram:** [@caffeinequant](https://instagram.com/caffeinequant)
 * **TikTok:** [@caffeinequant_ai](https://tiktok.com/@caffeinequant_ai)
 * **Threads:** [@caffeinequant](https://threads.net/@caffeinequant)
