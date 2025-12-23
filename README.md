@@ -1,4 +1,4 @@
-# ☕ Caffeine Quant
+# Caffeine Quant
 
 ### Professional AI-Driven Crypto Trading Solutions
 
