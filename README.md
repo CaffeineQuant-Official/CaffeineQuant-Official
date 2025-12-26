@@ -1,32 +1,48 @@
-# Caffeine Quant
+# Caffeine Quant | Dual-Core Execution Engine
 
-### Professional AI-Driven Crypto Trading Solutions
+> **"We do not predict. We calculate."**
 
-**Caffeine Quant** is a next-generation algorithmic trading ecosystem powered by **Google Gemini 3 Flash Reasoning**. We combine machine learning, on-chain analysis, and strictly regulated risk management to navigate volatile crypto markets.
+**Caffeine Quant** is an institutional-grade algorithmic trading infrastructure bridging the gap between retail capital and HFT technologies.
 
----
-
-### 🚀 Key Features
-* **Neural Analysis:** Real-time sentiment & technical scanning (RSI, Bollinger, FVG).
-* **Risk Management:** Dynamic position sizing & ATR-based stops.
-* **Multi-Exchange:** Supporting Binance, BingX, Bybit, OKX, and more.
-* **Transparency:** Full tax-compliant reporting (CSV) & fee tracking.
+Unlike traditional bots that rely on static indicators, our engine utilizes a **Dual-Core Neural Architecture**:
+1.  **Primary Core (Gemini 1.5 Pro):** Scans market structure, sentiment, and liquidity vectors in real-time.
+2.  **Risk Core (Claude 3.5 Sonnet):** Acts as a "Board of Directors," cross-validating every trade signal to filter out false positives with strict skepticism.
 
 ---
 
-### 🔗 Official Ecosystem
-* **Website:** [caffeinequant.com](https://caffeinequant.com)
-* **Email:** [support@caffeinequant.com](mailto:support@caffeinequant.com)
+### ⚡ Core Architecture
 
-### 📱 Social Media & Community
-* **X (Twitter):** [@CaffeineQuant](https://x.com/CaffeineQuant)
-* **Telegram:** [t.me/CaffeineQuant](https://t.me/CaffeineQuant)
-* **Discord:** [Join Community](https://discord.gg/Rmu3U8AC)
-* **Reddit:** [u/CaffeineQuant](https://www.reddit.com/user/CaffeineQuant)
-* **Instagram:** [@caffeinequant](https://instagram.com/caffeinequant)
-* **TikTok:** [@caffeinequant_ai](https://tiktok.com/@caffeinequant_ai)
-* **Threads:** [@caffeinequant](https://threads.net/@caffeinequant)
+* **Dual-Core Consensus:** A trade is executed only if both LLMs agree on the probability vector.
+* **Latency:** Sub-50ms execution via direct exchange API uplinks (AsyncIO).
+* **Smart Guard™:** Dynamic risk management protocol that mathematically preserves capital during volatility spikes.
+* **Phoenix Protocol:** Automated position recovery and re-calibration algorithms.
 
 ---
 
-⚠️ *Note: The source code for the Caffeine Quant core trading engine is proprietary and closed-source. This repository serves as a public documentation hub.*
+### 🛠 Tech Stack
+
+* **Language:** Python 3.10+
+* **Core:** `asyncio`, `ccxt`
+* **AI Layer:** Google Gemini API + Anthropic Claude API
+* **Data:** Pandas, NumPy (Vectorized calculations)
+* **Infrastructure:** Linux (Systemd managed)
+
+---
+
+### 🔗 Ecosystem Access
+
+* **Terminal Access:** [caffeinequant.com](https://caffeinequant.com)
+* **Support:** support@caffeinequant.com
+
+### 📡 Intelligence Feeds
+
+* **Instagram (Visual Logs):** [@caffeinequant](https://instagram.com/caffeinequant)
+* **TikTok (Live Monitor):** [@caffeinequant_ai](https://tiktok.com/@caffeinequant_ai)
+* **Twitter/X (Signals):** [@CaffeineQuant](https://x.com/CaffeineQuant)
+* **Threads (Manifesto):** [@caffeinequant](https://threads.net/@caffeinequant)
+* **Discord (Trading Floor):** [Join Protocol](https://discord.gg/invite_code_here)
+
+---
+
+### ⚠️ Disclaimer
+*The source code for the Caffeine Quant core execution engine is proprietary. This repository serves as a public documentation hub and roadmap tracker.*
