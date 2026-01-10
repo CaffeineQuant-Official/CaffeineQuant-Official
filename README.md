@@ -5,8 +5,8 @@
 **Caffeine Quant** is an institutional-grade algorithmic trading infrastructure bridging the gap between retail capital and HFT technologies.
 
 Unlike traditional bots that rely on static indicators, our engine utilizes a **Dual-Core Neural Architecture**:
-1.  **Primary Core (Gemini 1.5 Pro):** Scans market structure, sentiment, and liquidity vectors in real-time.
-2.  **Risk Core (Claude 3.5 Sonnet):** Acts as a "Board of Directors," cross-validating every trade signal to filter out false positives with strict skepticism.
+1.  **Primary Core (Gemini 3 Pro):** Scans market structure, sentiment, and liquidity vectors in real-time.
+2.  **Risk Core (Claude 4.5 Opus):** Acts as a "Board of Directors," cross-validating every trade signal to filter out false positives with strict skepticism.
 
 ---
 
@@ -21,7 +21,7 @@ Unlike traditional bots that rely on static indicators, our engine utilizes a **
 
 ### 🛠 Tech Stack
 
-* **Language:** Python 3.10+
+* **Language:** Python 3.12+
 * **Core:** `asyncio`, `ccxt`
 * **AI Layer:** Google Gemini API + Anthropic Claude API
 * **Data:** Pandas, NumPy (Vectorized calculations)
